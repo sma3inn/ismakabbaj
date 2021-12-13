@@ -450,7 +450,7 @@ video {
 .header__loader {
     height: 100vh;
     width: 100vw;
-    background-color: rgb(46, 10, 10);
+    background-color: #250713;
     position: absolute;
     top: 0;
     left: 0;
